@@ -1,2 +1,2 @@
 # java_node_17_20
-Docker image with Node.js 16, OpenJDK 11 (based on official Node.js image)
+Docker image with Node.js 20, OpenJDK 17 (based on official Node.js image)
